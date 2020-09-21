@@ -1,0 +1,3 @@
+useState = variables in react/set the variables oin react
+
+useEffect = run the code on some condition
